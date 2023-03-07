@@ -15,7 +15,7 @@ export const Image = styled.img`
   width: 40%;
 `
 
-export const Heading = styled.h1`
+export const Heading = styled.p`
   color: white;
   font-family: 'Roboto';
 `
